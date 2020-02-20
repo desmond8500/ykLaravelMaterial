@@ -1,0 +1,23 @@
+# Programme
+
+- [o] Creation de comptes
+- [o] Création des contextes
+- [o] Gestion de boite vocale
+- [o] Conférence téléphonique
+- [o] Langue
+- [o] visiophonie
+- [o] Personnalisation du son
+- [o] Transfert d'appel manuel et automatique
+- [o] Parking
+- [o] Interception d'appel
+- [o] Patron secrétaire
+- [o] IVR (interaction avec une boite vocale personnalisée)
+- [o] Interconnexion
+- [o] Enregistrement d'appel
+- [ ] SMS (tresor/jessy)
+- [ ] Routage intelligent (traore/esta)
+- [ ] Centre d'appel (diarra/niang)
+- [ ] CURL/system (ibou)
+- [ ]  Authentification (khady)
+- [ ]  Consultationde compte (diene)
+- [ ]  
